@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: 𝓟𝓘𝓩𝓩𝓐𝓢 𝓒𝓐𝓟𝓤𝓒𝓒𝓘𝓝𝓞
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
