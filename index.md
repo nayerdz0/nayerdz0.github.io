@@ -39,21 +39,28 @@ Lugar sano para degustar nuestros maravillosos platillos, en una gran cena famil
 
 ## Ofertas
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
 - ⚗️🍨 Alcohol
 - ⚗️🌲 Aperitivos
 - ⚗️💠 Café
 - ⚗️🚀 Cerveza
  
 
-### As a Jekyll theme
+## Opciones del Local
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+- ⚗️🍨 Desayunos
+- ⚗️🌲 Almuerzos
+- ⚗️💠 Postre
+- ⚗️🚀 Desayuno - Almuerzo
+- ⚗️🌲 Cena
+- ⚗️💠 Espacio con asientos
+
+
+## Servicios
+
+1. Ideal para ir con niños
+2. Sanitarios Unisex
+3. Sanitario
+
 
 ### As a GitHub Pages remote theme
 
