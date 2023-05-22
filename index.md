@@ -34,15 +34,15 @@ Lugar sano para degustar nuestros maravillosos platillos, en una gran cena famil
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
 
-## Examples
+## Aspectos Destacados
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+- Muy buena selección de té
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
 
-## Installation
+## Accesibilidad
+
+- Área de descanso con acceso para silla de ruedas
+
 
 ### Quick setup
 
