@@ -25,14 +25,7 @@ Lugar sano para degustar nuestros maravillosos platillos, en una gran cena famil
 - Retiros en la puerta
 - Entrega a domicilio
 - Para llevar
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+
 
 ## Aspectos Destacados
 
