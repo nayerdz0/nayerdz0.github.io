@@ -37,7 +37,7 @@ Lugar sano para degustar nuestros maravillosos platillos, en una gran cena famil
 - Área de descanso con acceso para silla de ruedas
 
 
-### Quick setup
+## Ofertas
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
